@@ -1,8 +1,6 @@
 # Hyper Webview
 
-Webview UltraはViboxにリニューアルされました。
-以前配信したWebview Ultraは１２月で利用できなくなります。
-Viboxへのアップデートをご検討ください。
+ViboxはHyper Webviewになります。
 
 Please use at your own risk.
 ご利用は自己責任で。
